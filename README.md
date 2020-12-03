@@ -1,10 +1,10 @@
 # Inyoung Cho (조인영) 👋
 
-## Interests
+## Research Interests
 
 - High-performance rendering (Monte Carlo methods)
 
-- Deep learning-based denoising
+- Deep image reconstruction
 
 - Deep feature learning
 
@@ -18,9 +18,11 @@
 
 - M.S. in Computer Science, KAIST, 2019 - Present
 
+  - GPA 4.25/4.3
+
 - B.S. in Computer Science and Mathematical Science, KAIST, 2015 - 2019
 
-  - Summa Cum Laude (4.0/4.3)
+  - Summa Cum Laude (GPA 4.0/4.3)
 
 ## Experiences
 
