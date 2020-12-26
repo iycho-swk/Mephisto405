@@ -8,11 +8,9 @@
 
 - Deep feature learning
 
-## Contact
+## Publications
 
-- Email: ciy405x@gmail.com
-
-- Github: https://github.com/Mephisto405
+- 
 
 ## Education
 
@@ -27,6 +25,12 @@
 ## Experiences
 
 - Deep Learning Researcher Intern, DeepBio Inc., Korea, June 2019 - August 2019
+
+## Contact
+
+- Email: ciy405x@gmail.com
+
+- Github: https://github.com/Mephisto405
 
 <!--
 **Mephisto405/Mephisto405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
