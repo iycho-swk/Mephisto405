@@ -1,4 +1,4 @@
-# Inyoung Cho (조인영) 👋
+# In-young Cho (조인영) 👋
 
 ## Research Interests
 
