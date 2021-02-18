@@ -18,7 +18,7 @@
 
   - GPA 4.25/4.3
 
-- B.S. in Computer Science and Mathematical Science, KAIST, 2015 - 2019
+- B.S. in Computer Science and Mathematical Science (double major), KAIST, 2015 - 2019
 
   - GPA 4.0/4.3 (Summa Cum Laude)
 
