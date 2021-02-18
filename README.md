@@ -20,7 +20,7 @@
 
 - B.S. in Computer Science and Mathematical Science, KAIST, 2015 - 2019
 
-  - Summa Cum Laude (GPA 4.0/4.3)
+  - GPA 4.0/4.3 (Summa Cum Laude)
 
 ## Experiences
 
