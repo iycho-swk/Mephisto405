@@ -1,5 +1,9 @@
 # In-young Cho (조인영) 👋
 
+## A Short Bio
+
+I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr/), advised by Prof. [Sung-eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/). Before starting my M.S., I received my double B.S. degree from School of Computing and [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at KAIST.
+
 ## Research Interests
 
 - High-performance rendering (Monte Carlo methods)
