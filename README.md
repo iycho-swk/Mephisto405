@@ -14,7 +14,7 @@ I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr
 
 ## Publications
 
-- SIGGRAPH 2021 submission under review
+- SIGGRAPH 2021 submission in review
 
 ## Education
 
