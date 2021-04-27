@@ -1,4 +1,4 @@
-# In-young Cho (조인영) 👋
+# In-Young Cho (조인영) 👋
 
 ## A Short Bio
 
@@ -14,7 +14,7 @@ I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr
 
 ## Publications
 
-- 
+- [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://www.notion.so/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c) (ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021))
 
 ## Education
 
