@@ -20,7 +20,6 @@ He is a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.k
 
 - M.S. in Computer Science, KAIST, 2019 - Present
   - GPA 4.25/4.3
-
 - B.S. in Computer Science and Mathematical Science (double major), KAIST, 2015 - 2019
   - GPA 4.0/4.3 (Summa Cum Laude)
 
