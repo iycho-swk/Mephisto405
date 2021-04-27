@@ -2,14 +2,12 @@
 
 ## A Short Bio
 
-I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr/), advised by Prof. [Sung-eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/). Before starting my M.S., I received my double B.S. degree from School of Computing and [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at KAIST.
+He is a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr/), advised by Prof. [Sung-eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/). Before starting his M.S., he received the double B.S. degree from School of Computing and [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at KAIST.
 
 ## Research Interests
 
-- High-performance rendering (Monte Carlo methods)
-
-- Deep image reconstruction
-
+- Physically-based rendering (Monte Carlo methods)
+- Deep learning-based reconstruction
 - Deep feature learning
 
 ## Publications
@@ -21,11 +19,9 @@ I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr
 ## Education
 
 - M.S. in Computer Science, KAIST, 2019 - Present
-
   - GPA 4.25/4.3
 
 - B.S. in Computer Science and Mathematical Science (double major), KAIST, 2015 - 2019
-
   - GPA 4.0/4.3 (Summa Cum Laude)
 
 ## Experiences
@@ -34,8 +30,8 @@ I am a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr
 
 ## Contact
 
+- Curriculum Vitae: https://www.notion.so/Curriculum-Vitae-20e517a32e66475497301f259a463003
 - Email: ciy405x@gmail.com
-
 - Github: https://github.com/Mephisto405
 
 <!--
