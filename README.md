@@ -15,6 +15,7 @@ He is a master candidate of [School of Computing at KAIST](https://cs.kaist.ac.k
 - [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://www.notion.so/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
   - In-Young Cho, Yuchi Huo, Sung-Eui Yoon
   - _ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021), 40(4), pp. 38:1-38:14, Aug. 2021_
+  - [Paper](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main.pdf), [Paper (low qualtiy)](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main_low_res.pdf), [Slides (coming soon)](https://sgvr.kaist.ac.kr/), [GitHub](https://github.com/Mephisto405/WCMC-Public)
 
 ## Education
 
