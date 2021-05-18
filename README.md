@@ -2,7 +2,7 @@
 
 ## A Short Bio
 
-He is a master' candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr/), advised by Prof. [Sung-eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/). Before starting his M.S., he received the double B.S. degree from School of Computing and [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at KAIST.
+He is a master's candidate of [School of Computing at KAIST](https://cs.kaist.ac.kr/), advised by Prof. [Sung-eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/). Before starting his M.S., he received the double B.S. degree from School of Computing and [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at KAIST.
 
 ## Research Interests
 
